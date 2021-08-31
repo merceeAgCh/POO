@@ -1,5 +1,6 @@
 # POO
 Curso de POO (Programación Orientada a Objetos).
-Comparación entre C, Java y Python.
+Lenguaje a utilizar: C#
+Deseable: Java.
 
 Se actualizará cada clase.
