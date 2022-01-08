@@ -1,0 +1,47 @@
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (29)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (29)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (29)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (29)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\marie\OneDrive\Escritorio\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ivan-\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (46)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (54)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (62)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\kareem\OneDrive - UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO\Desktop\programas\Nueva carpeta (69)\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
