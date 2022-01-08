@@ -1,10 +1,10 @@
 ## Programación Orientada a Objetos (POO).
 
 #### Que son las listas??
-Una lista es: una serie de datos que almacenaremos en una variable.
+	Una lista es: una serie de datos que almacenaremos en una variable.
 
 #### Que es una herencia en POO?
-Es un mecanismo mediante el cual una clase hereda características de otras clases.
+	Es un mecanismo mediante el cual una clase hereda características de otras clases.
 
 ## Explicación del código.
 
