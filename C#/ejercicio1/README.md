@@ -6,7 +6,8 @@ Una lista es: una serie de datos que almacenaremos en una variable.
 #### Que es una herencia en POO?
 Es un mecanismo mediante el cual una clase hereda características de otras clases.
 
-##Explicación del código.
+## Explicación del código.
+
 	1- ¿Qué hace mi código?
 		- Nos permite crear un usuario si es que no contamos con uno.
 		- Ingreso de usuario y contraseña previamente creado.
