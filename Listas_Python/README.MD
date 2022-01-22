@@ -6,9 +6,9 @@
 	git push origin  Listas_Jorge_2 // subir cambios a la rama
 	git checkout Listas_Jorge_2 // cambia de la rama main a la de listas
 ### Correr desde cmd
-	```
-	py nombrePrograma.py
-	```	
+```
+py nombrePrograma.py
+```	
 ##### ¿Qué es una lista en Python?
 	Son variables que almacenan "arrays",
 	objetos donde internamente cada posición 
