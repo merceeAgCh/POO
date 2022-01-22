@@ -5,7 +5,7 @@
 	git pull // actualizar el repositorio
 	git push origin  Listas_Jorge_2 // subir cambios a la rama
 	git checkout Listas_Jorge_2 // cambia de la rama main a la de listas
-### Clonamos el repositorio
+### Correr desde cmd
 	```
 	py nombrePrograma.py
 	```	
