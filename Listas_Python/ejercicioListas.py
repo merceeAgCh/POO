@@ -25,3 +25,18 @@ print(articulos)
 
 
 
+=======
+articulos
+print(articulos)
+
+#ToDo
+#Agrega dos articulos a la lista utilizando el indice
+
+#Agrega el precio de los articulos
+
+#Utiliza el metodo append
+
+#imprime la lista
+
+#Elimina todos los datos de tipo string e imprime la lista en orden de mayor a menor
+ main
