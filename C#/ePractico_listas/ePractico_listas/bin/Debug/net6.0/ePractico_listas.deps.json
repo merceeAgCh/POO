@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ePractico_listas/1.0.0": {
+        "runtime": {
+          "ePractico_listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ePractico_listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
