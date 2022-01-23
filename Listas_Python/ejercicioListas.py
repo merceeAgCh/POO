@@ -22,13 +22,6 @@ articulos.sort()
 print(articulos)
 
 
-
-
-
-=======
-articulos
-print(articulos)
-
 #ToDo
 #Agrega dos articulos a la lista utilizando el indice
 
@@ -39,4 +32,3 @@ print(articulos)
 #imprime la lista
 
 #Elimina todos los datos de tipo string e imprime la lista en orden de mayor a menor
- main
