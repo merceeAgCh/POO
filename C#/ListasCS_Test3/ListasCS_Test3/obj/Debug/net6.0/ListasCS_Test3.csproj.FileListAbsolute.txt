@@ -1,0 +1,15 @@
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\bin\Debug\net6.0\ListasCS_Test3.exe
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\bin\Debug\net6.0\ListasCS_Test3.deps.json
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\bin\Debug\net6.0\ListasCS_Test3.runtimeconfig.json
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\bin\Debug\net6.0\ListasCS_Test3.dll
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\bin\Debug\net6.0\ref\ListasCS_Test3.dll
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\bin\Debug\net6.0\ListasCS_Test3.pdb
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.csproj.AssemblyReference.cache
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.AssemblyInfoInputs.cache
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.AssemblyInfo.cs
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.csproj.CoreCompileInputs.cache
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.dll
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ref\ListasCS_Test3.dll
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.pdb
+D:\Development\courses\POO\C#\ListasCS_Test3\ListasCS_Test3\obj\Debug\net6.0\ListasCS_Test3.genruntimeconfig.cache
