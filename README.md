@@ -31,3 +31,5 @@ Se actualizará cada clase.
 	
 ## Polimorfismo: 
 	Este permite llamar metodos con el mismo nombre, pero de diferentes clases.	
+## Constructor:
+ Es una parte de codigo de una clase, se ejecuta cuando se construye el objeto. El constructor no tiene tipo de retorno.
