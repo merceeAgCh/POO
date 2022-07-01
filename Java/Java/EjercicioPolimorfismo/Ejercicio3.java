@@ -1,5 +1,6 @@
 package Java.EjercicioPolimorfismo;
 
+
 public class Ejercicio3{
 	public static void main(String... args){
 	Computadora escritorioJorge = new ComponentesExternos("Boton de encendido");
@@ -33,8 +34,6 @@ class ComponentesExternos extends Computadora{
 	private String raton;
 	// constructor de la clase Computadora.
 	public ComponentesExternos (String nombres) { nombres = nombres;}
-	public ComponentesExternos(String teclear) { teclear = teclear;}
-	public ComponentesExternos(String raton) { raton = raton;}
 	//metodo
 	public void encender(){System.out.println("El equipo se ha encendido con el componente externo. " + nombres);}
 	/* ToDo 
@@ -54,8 +53,6 @@ class ComponentesInternos extends ComponentesExternos{
 	private String fuenteDeAlimentacion;
 	//constructor de la clase Compo
 	public ComponentesInternos(String discoDuro) { discoDuro = discoDuro;}
-    public ComponentesInternos(String tarjetaGrafica) { tarjetaGrafica = tarjetaGrafica;}
-	public ComponentesInternos(String fuenteDeAlimentacion) { fuenteDeAlimentacion = fuenteDeAlimentacion;}
 	//metodo
     public void cambiarElDiscoDuro() { System.out.println("El usuario esta cambiando el disco duro. " + discoDuro);}
 	public void cambiarLaTarjetaGrafica () { System.out.println("El usuario esta cambiando de tarjeta grafica. " + tarjetaGrafica);}

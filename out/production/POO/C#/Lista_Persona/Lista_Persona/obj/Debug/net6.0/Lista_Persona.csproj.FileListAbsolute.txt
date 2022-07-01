@@ -1,0 +1,15 @@
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\bin\Debug\net6.0\Lista_Persona.exe
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\bin\Debug\net6.0\Lista_Persona.deps.json
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\bin\Debug\net6.0\Lista_Persona.runtimeconfig.json
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\bin\Debug\net6.0\Lista_Persona.dll
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\bin\Debug\net6.0\ref\Lista_Persona.dll
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\bin\Debug\net6.0\Lista_Persona.pdb
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.csproj.AssemblyReference.cache
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.AssemblyInfoInputs.cache
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.AssemblyInfo.cs
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.csproj.CoreCompileInputs.cache
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.dll
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\ref\Lista_Persona.dll
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.pdb
+D:\Development\courses\POO\C#\Lista_Persona\Lista_Persona\obj\Debug\net6.0\Lista_Persona.genruntimeconfig.cache
