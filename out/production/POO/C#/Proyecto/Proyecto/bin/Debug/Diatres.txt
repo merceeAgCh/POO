@@ -1,0 +1,7 @@
+31623841|Sala1|9 de diciembre|9:00 a 11:00| |
+313538179|Sala2|9 de diciembre|11:00 a 13:00|Mineria de Datos|Mariela García
+215663948|Sala3|9 de diciembre|13:00 a 15:00| |
+21265385|Sala4|9 de diciembre|15:00 a 17:00| |
+45697823|Sala5|9 de diciembre|17:00 a 19:00| |
+1258493|Sala6|9 de diciembre|17:00 a 19:00|Bitcoin: El futuro predecible|Ivan
+15263948|Sala7|9 de diciembre|13:00 a 15:00| |

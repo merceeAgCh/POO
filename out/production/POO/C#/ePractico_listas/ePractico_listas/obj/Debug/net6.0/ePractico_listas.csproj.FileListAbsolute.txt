@@ -1,0 +1,15 @@
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\bin\Debug\net6.0\ePractico_listas.exe
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\bin\Debug\net6.0\ePractico_listas.deps.json
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\bin\Debug\net6.0\ePractico_listas.runtimeconfig.json
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\bin\Debug\net6.0\ePractico_listas.dll
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\bin\Debug\net6.0\ref\ePractico_listas.dll
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\bin\Debug\net6.0\ePractico_listas.pdb
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.csproj.AssemblyReference.cache
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.AssemblyInfoInputs.cache
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.AssemblyInfo.cs
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.csproj.CoreCompileInputs.cache
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.dll
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ref\ePractico_listas.dll
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.pdb
+D:\Development\courses\POO\C#\ePractico_listas\ePractico_listas\obj\Debug\net6.0\ePractico_listas.genruntimeconfig.cache

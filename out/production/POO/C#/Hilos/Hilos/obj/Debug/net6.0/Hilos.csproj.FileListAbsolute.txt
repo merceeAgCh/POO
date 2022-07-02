@@ -1,0 +1,15 @@
+C:\Users\merce\source\repos\Hilos\Hilos\bin\Debug\net6.0\Hilos.exe
+C:\Users\merce\source\repos\Hilos\Hilos\bin\Debug\net6.0\Hilos.deps.json
+C:\Users\merce\source\repos\Hilos\Hilos\bin\Debug\net6.0\Hilos.runtimeconfig.json
+C:\Users\merce\source\repos\Hilos\Hilos\bin\Debug\net6.0\Hilos.dll
+C:\Users\merce\source\repos\Hilos\Hilos\bin\Debug\net6.0\ref\Hilos.dll
+C:\Users\merce\source\repos\Hilos\Hilos\bin\Debug\net6.0\Hilos.pdb
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.csproj.AssemblyReference.cache
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.AssemblyInfoInputs.cache
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.AssemblyInfo.cs
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.dll
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\ref\Hilos.dll
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.pdb
+C:\Users\merce\source\repos\Hilos\Hilos\obj\Debug\net6.0\Hilos.genruntimeconfig.cache
