@@ -3,16 +3,12 @@ package Java.EjercicioPolimorfismo;
 
 public class Ejercicio3{
 	public static void main(String... args){
-	Computadora escritorioJorge = new ComponentesExternos("Boton de encendido");
+	/*Computadora escritorioJorge = new ComponentesExternos("Boton de encendido");
 		escritorioJorge.encender();//llamar al metodo
-		escritorioJorge = new Computadora("La computadora prendio con el boton de encendido. ");
-		escritorioJorge.encender();
-		escritorioJorge.escribir();
-		escritorioJorge = new teclado("El teclado funciona de una manera perfecta en la computadora. ");
-		escritorioJorge.escribir();
-		escritorioJorge.usarElRaton();
-		escritorioJorge = new raton("El nuevo raton funciona de una manera perfecta en la computdora. ");
-		escritorioJorge.usarElraton();
+		/*escritorioJorge = new Computadora("La computadora prendio con el boton de encendido. ");
+		escritorioJorge.encender();*/
+		Terminar Componentes = new Terminar();
+		Componentes.mandarALlamarMetodos();
 	}
 }
 class Computadora{
@@ -57,5 +53,16 @@ class ComponentesInternos extends ComponentesExternos{
     public void cambiarElDiscoDuro() { System.out.println("El usuario esta cambiando el disco duro. " + discoDuro);}
 	public void cambiarLaTarjetaGrafica () { System.out.println("El usuario esta cambiando de tarjeta grafica. " + tarjetaGrafica);}
 	public void setFuenteDeAlimentacion () { System.out.println("El usuario esta cambiando la fuente de alimentacion. " + fuenteDeAlimentacion);}
+}
 
+class Terminar extends ComponentesInternos{
+	public void mandarALlamarMetodos(){
+		System.out.println("Estamos finalizando el programar. ");
+        encender();
+		escribir();
+		usarElRaton();
+		cambiarElDiscoDuro();
+		cambiarLaTarjetaGrafica();
+		setFuenteDeAlimentacion();
+	}
 }
