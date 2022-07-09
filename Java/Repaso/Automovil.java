@@ -1,11 +1,16 @@
 package Java.Repaso;
 
 public class Automovil {
-    public void  color(){
-        System.out.println("El color del carro es rojo");
+    //atributos
+    String color, marca, modelo;
+    //constructor
+    public Automovil(String colors, String marcas, String modelos){
+        this.color = colors;
+        this.modelo = modelos;
+        this.marca = marcas;
     }
-    public void marca(){
-        System.out.println("La marca es R75");
-    }
+    //metodo
+    public void verDatos(){
 
+    }
 }

@@ -1,5 +1,5 @@
 /**Calculo del area de un triangulo Forma 1*/
-import java.util.*;
+/*import java.util.*;
 
 public class poligonoE {
 

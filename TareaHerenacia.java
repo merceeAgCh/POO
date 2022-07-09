@@ -2,6 +2,7 @@
 ToDo:
 Elegir un tema y crear 4 clases que hereden la una de la otra.
  */
+/*
 public class TareaHerencia{
 public static void main(string args[]){
   Futbolista nuevoFutbolista = new Futbolista();
@@ -52,3 +53,4 @@ class Futbolista extends Equipo{
    darMasaje();
   }
 }
+*/

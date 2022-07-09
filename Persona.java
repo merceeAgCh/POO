@@ -1,4 +1,4 @@
-public class Persona{
+/*public class Persona{
 // atributos: edad, sexo, estatura y nombre
 	private String sexo;
 	private int edad;
@@ -21,4 +21,4 @@ public class Persona{
 		edad = annioActual - annioNacimiento;
 		return edad;
 	}
-}
+}*/

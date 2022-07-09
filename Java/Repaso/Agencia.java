@@ -4,20 +4,12 @@ public class Agencia {
     /* ToDo
     * Se crearan dos objetos de la clase Automovil en un archivo Agencia.java
     * */
+    //metodo principal
     public static void main(String[] args){
-        //metodo principal
-        Automovil autoNuevo = new Automovil();
-        autoNuevo.marca();
-        autoNuevo.color();
+        //Objeto
+        Duenio David = new Duenio("Azul", "VolksWagen", "Gol GTI", 187000, "David Perez");
+        Duenio Liliana = new Duenio("Rojo", "VolksWagen", "Jetta Live", 289000, "Liliana Chavez");
+        David.verDatos();
+        Liliana.verDatos();
     }
 }
-/*class Automovil {
-    public void  color(){
-        System.out.println("El color del carro es rojo");
-    }
-    public void marca(){
-        System.out.println("La marca es R75");
-    }
-
-}
-*/

@@ -1,3 +1,4 @@
+/*
 /**
 
 Escribe los nombres y formulas del parimetro y area de los poligonos de 3,4,5 y 6 lados, entonces elabora un programa que estos calculos
@@ -7,7 +8,7 @@ Lados   Nombre   Perimetro    Area
 5        -----    ------      ----
 6        -----    ------      ----
 */
-
+/*
 using System;
 
 
@@ -19,6 +20,7 @@ namespace SharpDev{
 
 		static void InitArr(){
 			/** Como hacer que lleve la secuencia a, b y c*/
-		}
+		/*}
 	}
 }
+*/

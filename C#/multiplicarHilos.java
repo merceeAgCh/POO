@@ -1,3 +1,4 @@
+/*
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +36,7 @@ namespace Hilos
              *      ->Hilo2 Trabaja
              * 
              */ 
-
+/*
             tiempoHilos.Stop();
             Console.WriteLine("El programa con hilos tomó {0} ms en ejecutarse",
                 tiempoHilos.Elapsed.TotalMilliseconds);
@@ -138,3 +139,4 @@ namespace Hilos
 
     }
 }
+*/
